@@ -1,0 +1,50 @@
+# PROJECT SUMMARY
+
+Project Title: Scientific Calculator Using Java Swing
+
+University: Khushal Khan Khattak University, Karak (KKKUK)
+
+Instructor: Dr. Arshad Iqbal
+
+# Developed By:
+
+Naeem Ullah
+
+Abdul Salam
+
+Muhammad Afshan
+
+
+Introduction:
+This project is a Scientific Calculator application developed using Java Swing. The main purpose of this project is to design and implement a user-friendly desktop calculator capable of performing both basic and advanced mathematical operations.
+
+# Purpose of the Project:
+The purpose of this project is to enhance practical knowledge of Java programming, GUI development, and event handling. It also helps in understanding object-oriented programming concepts and mathematical logic implementation.
+
+# Scope of the Project:
+The calculator can be used by students, teachers, and professionals for performing daily mathematical and scientific calculations efficiently.
+
+# Key Features:
+
+Basic arithmetic operations
+
+Scientific functions (sin, cos, tan, log, square root, power)
+
+Interactive graphical interface
+
+Error handling
+
+Fast and accurate calculations
+
+Tools and Technologies:
+
+Java
+
+Java Swing
+
+AWT
+
+Event Handling
+
+# Conclusion:
+The Scientific Calculator project is a practical implementation of Java Swing GUI concepts. It improves programming skills and demonstrates how desktop applications are built using Java.
