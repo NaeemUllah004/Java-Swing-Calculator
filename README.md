@@ -2,7 +2,7 @@
 📌 Project Title
 Scientific Calculator Using Java Swing
 
-#👨‍🎓 Developed By
+👨‍🎓 Developed By
 Naeem Ullah
 Abdul Salam
 Muhammad Afshan
